@@ -23,7 +23,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Rahat69x/motion-sketchbook.git
+git clone https://github.com/rahat4528/motion-sketchbook.git
 cd motion-sketchbook
 ```
 
